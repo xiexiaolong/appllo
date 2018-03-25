@@ -23,6 +23,8 @@ func main() {
     //特殊常量
 
 	/*GO语言运算符*/
-
+	var id string;
+	id = "20180325001"
+	fmt.Println(id)
 
 }
